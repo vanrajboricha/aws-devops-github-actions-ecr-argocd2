@@ -6,7 +6,7 @@
 # IMAGE CONFIGURATION
 # ----------------------------------------------------------------------------
 image:
-  repository: 180789647333.dkr.ecr.us-east-1.amazonaws.com/retail-store/ui
+  repository: 454143665149.dkr.ecr.ap-south-1.amazonaws.com/vanbor-retail-store/ui
   pullPolicy: IfNotPresent
   tag: sha-381f8eb
 
