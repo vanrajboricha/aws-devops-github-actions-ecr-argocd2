@@ -8,7 +8,7 @@
 image:
   repository: 454143665149.dkr.ecr.ap-south-1.amazonaws.com/vanbor-retail-store/ui
   pullPolicy: IfNotPresent
-  tag: sha-a0b2e09
+  tag: sha-810377c
 
 # ----------------------------------------------------------------------------
 # APPLICATION CONFIGURATION
